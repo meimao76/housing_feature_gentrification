@@ -20,7 +20,7 @@ def get_residential_units(es, year, index="applications"):
                 "must": [
                     {
                         "range": {
-                            "application_details.residential_details.total_no_proposed_residential_units": {
+                            "application_details.residential_details.total_no_existing_residential_units": {
                                 "gte": 1
                             }
                         }
