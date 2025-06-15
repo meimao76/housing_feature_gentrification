@@ -1,0 +1,8 @@
+# dateset and big files
+data/
+*.csv
+*.xlsx
+*.shp
+*.geojson
+*.zip
+*.tif
