@@ -6,3 +6,11 @@ data/
 *.geojson
 *.zip
 *.tif
+
+# python enviornmrnt
+venv/
+*.dll
+*.lib
+*.so
+*.zip
+*.whl
