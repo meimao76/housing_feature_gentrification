@@ -18,3 +18,9 @@ venv/
 # other big data
 *.parquet
 *.pkl
+*.json
+*.pt
+*.pth
+*.bin
+*.txt
+*.safetensors
